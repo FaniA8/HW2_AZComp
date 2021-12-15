@@ -8,6 +8,6 @@ for i in range(2, number):
 
 if res:
 	print('The number is Prime.')
-else:
+elif number == 0 or number == 1 or res:
 	print('The number is not Prime.')
 
