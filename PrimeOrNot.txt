@@ -1,0 +1,5 @@
+Hi!
+This is python code PrimeOrNot descryption.
+This code can help you find out a number is Prime or not. First you should run the code and then give a number to it.
+if the number is Prime, it will print 'The number is Prime.'
+else it will print 'The number is not Prime.'

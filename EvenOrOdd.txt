@@ -1,0 +1,5 @@
+Hi!
+This is EvenOrNot python code descryption.
+By running this code you can find out a number is even or odd. First run the code, then give a number to it.
+if the number is even, the code will print 'The number is Even.'
+else it will print 'The number is Odd.'
